@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Vaše Umělecké Stránky</title>
+</head>
+<body>
+    <header>
+        <h1>Vítejte na Vašich Uměleckých Stránkách</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Úvod</a></li>
+            <li><a href="#about">O mně</a></li>
+            <li><a href="#services">Služby</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h2>Úvod</h2>
+        <p>Vítejte na mých uměleckých stránkách. Zde najdete mé fotografie a umělecké práce.</p>
+        <img src="path-to-your-image.jpg" alt="Popis obrázku">
+    </section>
+
+    <section id="about">
+        <h2>O mně</h2>
+        <p>Jsem umělec fotograf specializující se na zajímavé momenty a kreativní kompozice.</p>
+    </section>
+
+    <section id="services">
+        <h2>Služby</h2>
+        <p>Nabízím profesionální fotografie pro různé události a příležitosti.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <img src="path-to-your-portfolio-image1.jpg" alt="Popis obrázku 1">
+        <img src="path-to-your-portfolio-image2.jpg" alt="Popis obrázku 2">
+        <!-- Přidejte další obrázky podle potřeby -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Vaše Umělecké Stránky</p>
+    </footer>
+</body>
+</html>
